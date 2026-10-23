@@ -1,0 +1,6 @@
+node_modules/
+dist/
+api/.env
+api/data/
+api/uploads/*
+!api/uploads/.gitkeep
